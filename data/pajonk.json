@@ -1,0 +1,18 @@
+{
+    "id": 108661466,
+    "name": "pajonk",
+    "author": "MayXaX",
+    "creators": ["MayXaX"],
+    "verifier": "MayXaX",
+    "verification": "https://youtu.be/sEw0JyKuDTo",
+    "percentToQualify": 100,
+    "password": "Free because 2.2",
+    "records": [
+        {
+            "user": "Melhorando",
+            "link": "https://youtu.be/cyTwaVWi608?si=bE9rh01a_gN2ZEDS",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
