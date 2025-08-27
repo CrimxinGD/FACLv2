@@ -1,0 +1,24 @@
+{
+    "id": 124843842,
+    "name": "shitofalevel",
+    "author": "FJKR",
+    "creators": ["FJKR"],
+    "verifier": "FJKR",
+    "verification": "https://youtu.be/kYzEO9s4xtI",
+    "percentToQualify": "100",
+    "password": "Free because 2.2 happened",
+    "records": [
+        {
+            "user": "Melhorando",
+            "link": "https://youtu.be/DRnvaWWotdg?si=kGBKVRSJC3DWy5ww",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MayXaX",
+            "link": "",
+            "percent": 100,
+            "hz": "N/A"
+        }
+    ]
+}
