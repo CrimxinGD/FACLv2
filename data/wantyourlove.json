@@ -1,0 +1,18 @@
+{
+    "id": 120430896,
+    "name": "Want Your Love",
+    "author": "MayXaX",
+    "creators": ["MayXaX"],
+    "verifier": "MayXaX",
+    "verification": "https://youtu.be/dvwwEc4ggls",
+    "percentToQualify": 100,
+    "password": "Free because 2.2",
+    "records": [
+        {
+            "user": "Melhorando",
+            "link": "https://youtu.be/pnWMi3a5U4A?si=YA-aEZVfk2rp2Glc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
